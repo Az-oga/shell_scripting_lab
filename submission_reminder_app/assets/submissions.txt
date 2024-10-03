@@ -1,0 +1,8 @@
+istudent, assignment, submission status
+here, Shell Navigation, submitted
+Flourish, Shell Navigation, not submitted
+Yemi, Shell Navigation, not submitted
+Lydia, Shell Navigation, not submitted
+Nathan, Shell Navigation, not submitted
+Cole, Shell Navigation, not submitted
+Victor, Shell Navigation, not submitted
